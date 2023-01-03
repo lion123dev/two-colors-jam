@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="120" height="6" tilewidth="16" tileheight="16" infinite="0" nextobjectid="89">
+ <tileset firstgid="1" source="tileset.tsx"/>
+ <layer name="Tile Layer 1" width="120" height="6">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,8,8,8,8,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,62,
+9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+</data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="1" type="hero" x="49.1162" y="57.955" width="14" height="16"/>
+  <object id="2" type="exit" x="1837.66" y="-60.4089" width="81" height="134.333"/>
+  <object id="3" type="zombie" x="194.487" y="52.0986" width="11" height="19"/>
+  <object id="4" type="zombie" x="266.987" y="50.0986" width="11" height="19"/>
+  <object id="5" type="zombie" x="341.487" y="50.5986" width="11" height="19"/>
+  <object id="6" type="zombie" x="387.487" y="51.0986" width="11" height="19"/>
+  <object id="7" type="zombie" x="397.987" y="51.0986" width="11" height="19"/>
+  <object id="8" type="zombie" x="406.987" y="51.0986" width="11" height="19"/>
+  <object id="9" type="zombie" x="416.487" y="51.0986" width="11" height="19"/>
+  <object id="10" type="zombie" x="422.487" y="51.0986" width="11" height="19"/>
+  <object id="11" type="zombie" x="434.987" y="51.5986" width="11" height="19"/>
+  <object id="12" type="zombie" x="442.487" y="52.0986" width="11" height="19"/>
+  <object id="13" type="zombie" x="447.987" y="51.0986" width="11" height="19"/>
+  <object id="14" type="zombie" x="533.487" y="49.5986" width="11" height="19"/>
+  <object id="15" type="zombie" x="549.487" y="51.0986" width="11" height="19"/>
+  <object id="16" type="zombie" x="563.487" y="49.0986" width="11" height="19"/>
+  <object id="17" type="zombie" x="572.487" y="50.0986" width="11" height="19"/>
+  <object id="18" type="zombie" x="827.487" y="48.0986" width="11" height="19"/>
+  <object id="19" type="zombie" x="843.487" y="48.0986" width="11" height="19"/>
+  <object id="20" type="zombie" x="870.487" y="49.0986" width="11" height="19"/>
+  <object id="21" type="zombie" x="913.487" y="47.0986" width="11" height="19"/>
+  <object id="22" type="zombie" x="971.487" y="46.0986" width="11" height="19"/>
+  <object id="23" type="zombie" x="1032.49" y="47.0986" width="11" height="19"/>
+  <object id="24" type="zombie" x="1096.49" y="47.0986" width="11" height="19"/>
+  <object id="25" type="zombie" x="1162.49" y="47.0986" width="11" height="19"/>
+  <object id="26" type="zombie" x="1211.49" y="47.0986" width="11" height="19"/>
+  <object id="27" type="zombie" x="1231.49" y="47.0986" width="11" height="19"/>
+  <object id="28" type="zombie" x="1272.49" y="47.0986" width="11" height="19"/>
+  <object id="29" type="zombie" x="1317.49" y="47.0986" width="11" height="19"/>
+  <object id="30" type="zombie" x="1353.49" y="42.0986" width="11" height="19"/>
+  <object id="31" type="zombie" x="1382.49" y="42.0986" width="11" height="19"/>
+  <object id="32" type="zombie" x="1338.5" y="51" width="11" height="19"/>
+  <object id="33" type="zombie" x="1387.5" y="51" width="11" height="19"/>
+  <object id="34" type="zombie" x="1407.5" y="51" width="11" height="19"/>
+  <object id="35" type="zombie" x="1448.5" y="51" width="11" height="19"/>
+  <object id="36" type="zombie" x="1493.5" y="51" width="11" height="19"/>
+  <object id="37" type="zombie" x="1529.5" y="46" width="11" height="19"/>
+  <object id="38" type="zombie" x="1558.5" y="46" width="11" height="19"/>
+  <object id="39" type="zombie" x="1472.5" y="50" width="11" height="19"/>
+  <object id="40" type="zombie" x="1521.5" y="50" width="11" height="19"/>
+  <object id="41" type="zombie" x="1541.5" y="50" width="11" height="19"/>
+  <object id="42" type="zombie" x="1582.5" y="50" width="11" height="19"/>
+  <object id="43" type="zombie" x="1627.5" y="50" width="11" height="19"/>
+  <object id="44" type="zombie" x="1663.5" y="45" width="11" height="19"/>
+  <object id="45" type="zombie" x="1692.5" y="45" width="11" height="19"/>
+  <object id="46" type="zombie" x="1603.5" y="53" width="11" height="19"/>
+  <object id="47" type="zombie" x="1652.5" y="53" width="11" height="19"/>
+  <object id="48" type="zombie" x="1672.5" y="53" width="11" height="19"/>
+  <object id="49" type="zombie" x="1713.5" y="53" width="11" height="19"/>
+  <object id="50" type="zombie" x="1758.5" y="53" width="11" height="19"/>
+  <object id="51" type="zombie" x="1794.5" y="48" width="11" height="19"/>
+  <object id="52" type="zombie" x="1823.5" y="48" width="11" height="19"/>
+  <object id="53" type="zombie" x="1843.5" y="52.1667" width="11" height="19"/>
+  <object id="54" type="zombie" x="1855.83" y="53.5" width="11" height="19"/>
+  <object id="55" type="zombie" x="1870.83" y="51.1667" width="11" height="19"/>
+  <object id="56" type="zombie" x="1885.5" y="53.1667" width="11" height="19"/>
+  <object id="57" type="zombie" x="1904.17" y="51.5" width="11" height="19"/>
+  <object id="58" type="jumper" x="617" y="14" width="10" height="20"/>
+  <object id="59" type="jumper" x="674" y="13" width="10" height="20"/>
+  <object id="60" type="jumper" x="723" y="12" width="10" height="20"/>
+  <object id="61" type="jumper" x="793" y="13" width="10" height="20"/>
+  <object id="62" type="jumper" x="881" y="17.5" width="10" height="20"/>
+  <object id="63" type="jumper" x="904" y="18.5" width="10" height="20"/>
+  <object id="64" type="jumper" x="944" y="16" width="10" height="20"/>
+  <object id="65" type="jumper" x="1013.5" y="16.5" width="10" height="20"/>
+  <object id="66" type="jumper" x="1114.5" y="12" width="10" height="20"/>
+  <object id="67" type="jumper" x="1168.5" y="13.5" width="10" height="20"/>
+  <object id="68" type="jumper" x="1139" y="7" width="10" height="20"/>
+  <object id="69" type="jumper" x="1324.5" y="10.5" width="10" height="20"/>
+  <object id="70" type="jumper" x="1406.5" y="10" width="10" height="20"/>
+  <object id="71" type="jumper" x="1487.5" y="11.5" width="10" height="20"/>
+  <object id="72" type="jumper" x="1594.5" y="11" width="10" height="20"/>
+  <object id="73" type="jumper" x="1561" y="11" width="10" height="20"/>
+  <object id="74" type="jumper" x="1651" y="9.5" width="10" height="20"/>
+  <object id="75" type="jumper" x="1705" y="5" width="10" height="20"/>
+  <object id="76" type="jumper" x="1763" y="9.5" width="10" height="20"/>
+  <object id="77" type="jumper" x="1785" y="9" width="10" height="20"/>
+  <object id="78" type="jumper" x="1814.5" y="10.5" width="10" height="20"/>
+  <object id="79" type="jumper" x="1846" y="-10.5" width="10" height="20"/>
+  <object id="80" type="jumper" x="1878" y="-12" width="10" height="20"/>
+  <object id="81" type="jumper" x="1900.5" y="-11" width="10" height="20"/>
+  <object id="82" type="slime" x="640.5" y="44.5" width="19" height="17"/>
+  <object id="83" type="slime" x="1237.5" y="14.5" width="19" height="17"/>
+  <object id="84" type="slime" x="1346.5" y="12.5" width="19" height="17"/>
+  <object id="85" type="slime" x="1454.5" y="5.5" width="19" height="17"/>
+  <object id="86" type="slime" x="1614.5" y="9.5" width="19" height="17"/>
+  <object id="87" type="slime" x="1732.5" y="11.5" width="19" height="17"/>
+  <object id="88" type="slime" x="1672.5" y="-3.5" width="19" height="17"/>
+ </objectgroup>
+</map>
