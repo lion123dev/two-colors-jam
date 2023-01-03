@@ -175,6 +175,7 @@ class PlayState extends FlxState
 			case TiledLayerType.OBJECT:
 				ProcessEntityLayer(cast l);
 			case TiledLayerType.IMAGE:
+			case TiledLayerType.GROUP:
 				return;
 		}
 	}
